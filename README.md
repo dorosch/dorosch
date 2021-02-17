@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![https://github.com/dorosch?tab=repositories](https://github-readme-stats.vercel.app/api?username=dorosch&count_private=true&show_icons=true)
+
+![https://github.com/dorosch?tab=repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=dorosch)
+
 <!--
 **dorosch/dorosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
