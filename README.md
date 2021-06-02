@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![https://github.com/dorosch?tab=repositories](https://github-readme-stats.vercel.app/api?username=dorosch&count_private=true&show_icons=true)
-
 ![https://github.com/dorosch?tab=repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=dorosch)
 
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
