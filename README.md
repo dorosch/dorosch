@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![https://github.com/dorosch?tab=repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=dorosch)
+![Leet code](https://github-readme-stats.vercel.app/api/top-langs?username=dorosch&show_icons=true&locale=en&layout=compact&theme=chartreuse-light)
+[![dorosch LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dorosch&theme=light)](https://github.com/dorosch/dorosch)
 
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
