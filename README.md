@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Leet code](https://github-readme-stats.vercel.app/api/top-langs?username=dorosch&show_icons=true&locale=en&layout=compact&theme=chartreuse-light)
+![Leet code](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorosch&show_icons=true&locale=en&layout=compact&theme=chartreuse-light)
 [![dorosch LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dorosch&theme=light)](https://leetcode.com/dorosch/)
 
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
