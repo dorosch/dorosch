@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Leet code](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorosch&show_icons=true&locale=en&layout=compact&theme=chartreuse-light)
-<!-- [![dorosch LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dorosch&theme=light)](https://leetcode.com/dorosch/) -->
-
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Rust-%23000?logo=rust&style=for-the-badge&logoColor=white)
