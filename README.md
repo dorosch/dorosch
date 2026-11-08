@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/terraform%20-%234f26e3.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/ansible%20-%2313083d.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/kubernetes%20-%230000ff.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!--
 **dorosch/dorosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
